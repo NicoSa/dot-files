@@ -1,7 +1,7 @@
 Playing with VIM
 ===
 I´m playing around with VIM. This repo contains my vimrc file and vim folder. 
-There are not a lot of modifications at the moment.
+There are not a lot of modifications at the moment...
 
 Recommended links:
 ----
