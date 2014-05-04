@@ -6,11 +6,11 @@ There are not a lot of modifications at the moment.
 Recommended links:
 ----
  
-- * [Get Started]
-- * [Tutorial]
-- * [Colorschemes]
-- * [CheatSheet]
-- * [Mac VIM]
+- [Get Started]
+- [Tutorial]
+- [Colorschemes]
+- [CheatSheet]
+- [Mac VIM]
  
  
  
